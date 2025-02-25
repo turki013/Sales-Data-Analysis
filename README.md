@@ -41,7 +41,7 @@ This project analyzes sales data from various stores and representatives using *
 ## 📥 Installation  
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Sales-Data-Analysis.git
+git clone https://github.com/turki013/Sales-Data-Analysis.git
 ```
 
 ## 📌 Usage  
